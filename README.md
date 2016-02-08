@@ -1,2 +1,2 @@
-# sproutscoin.org
-sproutscoin website
+# SproutsExtreme
+SproutsExtreme website
